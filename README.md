@@ -1,16 +1,5 @@
 <h1 align="center">🎯 Interactive Hangman MCQ Game</h1>
 
-<p align="center">
-  <a href="https://in.linkedin.com/in/rohantodkar0705">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Rohan-Todkar-2003">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-  </a>
-  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSKkkFTWhKXrKPhclFTXWpFdQrQCNQRBPTHxnjMVcczhRNRRQJtNlHXnzZFdcCZpNmhSvkTl">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="Gmail"/>
-  </a>
-</p>
 
 An engaging educational game that combines the classic Hangman concept with multiple-choice questions across various programming and data science subjects.
 
@@ -229,3 +218,17 @@ If you encounter any issues:
 ---
 
 **Happy Gaming! 🎮** Enjoy testing your knowledge across multiple subjects!
+
+
+
+<p align="center">
+  <a href="https://in.linkedin.com/in/rohantodkar0705">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Rohan-Todkar-2003">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  </a>
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSKkkFTWhKXrKPhclFTXWpFdQrQCNQRBPTHxnjMVcczhRNRRQJtNlHXnzZFdcCZpNmhSvkTl">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="Gmail"/>
+  </a>
+</p>
