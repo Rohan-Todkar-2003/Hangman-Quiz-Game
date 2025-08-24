@@ -61,20 +61,6 @@ An engaging educational game that combines the classic Hangman concept with mult
    python hangman_game.py
    ```
 
-### Alternative Installation with Video Support
-
-For full video playback features:
-```bash
-python setup.py --install --extras video
-```
-
-## 🛠️ Installation Options
-
-### Option 1: Quick Setup (Recommended)
-```bash
-python setup.py --install --extras video
-```
-
 ### Option 2: Virtual Environment (Isolated)
 ```bash
 python setup.py --venv myenv
