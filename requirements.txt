@@ -1,0 +1,12 @@
+# requirements.txt for Interactive Hangman MCQ Game
+# Core dependencies
+pygame>=2.0.0
+numpy>=1.19.0
+
+# Optional (video playback support)
+opencv-python>=4.5.0
+Pillow>=8.0.0
+
+# Notes:
+# - Install with: pip install -r requirements.txt
+# - If installation fails on system Python, try creating/activating a virtualenv first.
